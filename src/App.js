@@ -1,7 +1,7 @@
 
 import './App.css';
 import Home from './Home';
-// import Bot from './Bot';
+import Bot from './Bot';
 
 function App() {
   return (
